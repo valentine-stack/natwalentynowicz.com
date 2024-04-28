@@ -1,12 +1,18 @@
 ---
 layout: default
 ---
-See my:     [LinkedIn](https://www.linkedin.com/in/natalia-walentynowicz/)  \|   [My Resume]()
+See my:     [LinkedIn](https://www.linkedin.com/in/natalia-walentynowicz/)  \|   [My Resume]({{ site.baseurl }}{% link file.txt %})\|
 
 Currently Customer Success Lead at Y42:
 - I help analytics teams build scalable data pipelines with SQL & dbt on top of BigQuery or Snowflake. 
 - Using data integration tools like Fivetran, Cdata and Airbyte. 
 - Working with customers and seeing data setups raise brings me goosebumps.
+
+My ambition:
+- Lead driven, customer focused teams
+- Help solve problems with data
+- Contribute to large scale products
+The future of data & AI is bright & I want to play my part in it.
 
 My story: 
 - Polish. Studied abroad at TU Berlin when the start-up scene pulled me in at the time of its flourish. 
@@ -20,10 +26,9 @@ My story:
 - Learnt SQL, Python basics, Git. Built my first data app.
 - Landed my job at Y42, 1 month after the bootcamp.
 
-My ambition:
-- Lead driven, customer focused teams
-- Help solve problems with data
-- Contribute to large scale products
-The future of data & AI is bright & I want to play my part in it.
+My Talks:
+- [AquaVision Pitch at CERN](https://cds.cern.ch/record/2687259) 
+- [Cryposhark: Data Project at LeWagon](https://www.youtube.com/watch?v=kXXJDpDmdVM&t=4336s)
+
 
 If you catch me outside of work, I record music, enjoy a good audiobook or I'm out for a standup comedy.
