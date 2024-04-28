@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-See my:     [LinkedIn](https://www.linkedin.com/in/natalia-walentynowicz/)  \|   [My Resume]({{ site.baseurl }}{% link file.txt %})\|
+See my:     [LinkedIn](https://www.linkedin.com/in/natalia-walentynowicz/)  \|
 
 Currently Customer Success Lead at Y42:
 - I help analytics teams build scalable data pipelines with SQL & dbt on top of BigQuery or Snowflake. 
